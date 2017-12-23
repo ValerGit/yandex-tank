@@ -1,0 +1,12 @@
+tank_tag:
+  default: unknown
+  type: string
+graphite_root:
+  default: "http://localhost/"
+  type: string
+graphite_port:
+  default: 2003
+  type: integer
+prefix:
+  default: tank.load.my_new_feature
+  type: string

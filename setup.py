@@ -21,6 +21,7 @@ analytic tools for the results they produce.
         'pip>=8.1.2',
         'matplotlib>=1.5.3', 'seaborn>=0.7.1',
         'pyyaml>=3.12', 'cerberus>=1.1', 'influxdb>=5.0.0',
+        'graphitesend>=0.10.0',
     ],
     setup_requires=[
         'pytest-runner', 'flake8',
